@@ -7,3 +7,7 @@
 ## 🇪🇸 ¿Qué es POMODORS?
 
 📚 **POMODORS** es una plataforma de estudio interactiva diseñada para ayudarte a dominar presentaciones lámina por lámina 🖼️, permitiéndote subir material educativo (PDF, PPTX, ODP, imágenes y texto) 📄, redactar lo que entendiste con tus propias palabras ✍️ y recibir retroalimentación instantánea y detallada impulsada por la IA de Gemini 🤖—incluyendo correcciones conceptuales ⚠️, puntos clave omitidos 💡, una nota académica de 1,0 a 7,0 📊 y una versión corregida optimizada 🧠 para potenciar tu aprendizaje. 🎓
+
+---
+
+🚀 **Try it now / Pruebala ya:** [https://francogato.github.io/Pomodors/](https://francogato.github.io/Pomodors/)
